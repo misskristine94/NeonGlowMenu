@@ -19,11 +19,11 @@ To install the component, please follow these steps:
 - Change the MenuItems property to
 
 Table( {
-- //this is the name of the screen 
+//this is the name of the screen 
 <br>  MenuItem: "Home", 
-- // this is the screen you will navigate to when you select this item 
+// this is the screen you will navigate to when you select this item 
 <br>  MenuScreenNavigate: Home, 
-- //if you are not comfortable with SVG's, you can use standard icons instead! - just make sure you toggle the component property IconSVGorStandard to false :)  
+//if you are not comfortable with SVG's, you can use standard icons instead! - just make sure you toggle the component property IconSVGorStandard to false :)  
 <br> StandardIcon: Icon.Home},
 <br> { MenuItem: "Add new", 
 <br> MenuScreenNavigate: 'Add new', 
