@@ -32,9 +32,14 @@ Table( {
 <br> StandardIcon: Icon.AddUser }, 
 <br> { MenuItem: "Settings",
 <br> MenuScreenNavigate: Settings,
-<br> StandardIcon: Icon.Settings } )
+<br> StandardIcon: Icon.Settings },
+<br> { MenuItem: "Documents",
+<br> MenuScreenNavigate: Documents,
+<br> StandardIcon: Icon.AddDocument } )
 
 Change the StandardIcon to whatever out-of-the-box icon you'd like to use. 
+
+- Create screens in your app to match the MenuItem name. 
 
 - If you would like to use the animated SVG's, please note there are some additional steps to be carried out. 
 The SVG code is contained within the MenuLogo image control - as we are changing the colour of the SVG's dynamically based on the active screen, we are using the Switch() function. I have recently blogged step by step how to achieve this - https://www.kristinekolodziejski.com/blog/building-a-beautiful-power-apps-mobile-navigation-menu-svgs-part-3
