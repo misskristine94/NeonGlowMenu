@@ -1,5 +1,5 @@
-# ClaymorphicMobileNavMenu
-Claymorphic Mobile Navigation Menu with animation for your Canvas Apps!
+# NeonGlowMenu
+Dark mode neon glow menu for your Canvas Apps!
 
 ![image](https://user-images.githubusercontent.com/86930618/190911114-4cde9739-6259-48d5-962f-120cd2bb0700.png)
 
