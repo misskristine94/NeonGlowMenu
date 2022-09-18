@@ -52,13 +52,11 @@ Table(
 
 Change the StandardIcon to whatever out-of-the-box icon you'd like to use. 
 
-
 <br> The component has five main properties:
 
-![image](https://user-images.githubusercontent.com/86930618/181357835-caf09661-1c7a-4f6e-9148-609713c40d92.png)
+![image](https://user-images.githubusercontent.com/86930618/190910148-087d22ae-4f6d-4305-b364-ed4880cd7178.png)
 
 - MenuItems is the table of menu items pasted above,
-- Animation - this is applicable to SVG's in this component only - if you want the active screen SVG to float, please set that to true, otherwise set it to fault.
 - IconSVGorStandard - if you want your icons to be SVG's, set that to true. If you are not comfortable SVG's and want to use out-of-the-box icons instead, please set that to false.
 - SVGActiveIconColour 1 & 2 - these are the two colours of our SVG which are making up the lineal gradient. If you'd like it to be single toned, please give both properties the same value
 - StandardIconColour - if you choose to use standard icons instead of SVG's, this is how you will control the colour of your icon
