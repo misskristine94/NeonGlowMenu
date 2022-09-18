@@ -1,7 +1,7 @@
 # ClaymorphicMobileNavMenu
 Claymorphic Mobile Navigation Menu with animation for your Canvas Apps!
 
-![ezgif-3-bb0863aeee](https://user-images.githubusercontent.com/86930618/181358227-a26a8700-b3b0-420f-94cb-0950870a2a4a.gif)
+![image](https://user-images.githubusercontent.com/86930618/190911114-4cde9739-6259-48d5-962f-120cd2bb0700.png)
 
 
 
